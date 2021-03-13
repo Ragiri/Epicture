@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1016539325544",
+    "firebase_url": "https://spry-smithy-251714.firebaseio.com",
+    "project_id": "spry-smithy-251714",
+    "storage_bucket": "spry-smithy-251714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016539325544:android:78fb7a199225f61d5407dd",
+        "android_client_info": {
+          "package_name": "com.example.epicture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016539325544-v41ckrtn4sgmhn98ejm2avvt2gim9t4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.epicture",
+            "certificate_hash": "33c388fc90d47f32e5c1cf04e3f85b87a127874a"
+          }
+        },
+        {
+          "client_id": "1016539325544-1l13bmg1c04m31ohqm5k9tn8ru4feg6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeZNGk1W80HXSuB845yY-9axxLmScx60M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016539325544-1l13bmg1c04m31ohqm5k9tn8ru4feg6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
